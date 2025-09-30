@@ -1,2 +1,9 @@
-pydantic==2.5.3
-# add additional modules here
+pydantic>=2.8.0
+qdrant-client
+llama-index
+llama-index-vector-stores-qdrant
+llama-index-embeddings-huggingface
+PyMuPDF
+openai
+fastapi
+uvicorn
