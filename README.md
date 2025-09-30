@@ -5,7 +5,7 @@ This repository contains two components:
 - **Backend Service** – A FastAPI application for querying laws parsed from a PDF
 - **Frontend Client** – A  Next.js app for interacting with the backend
 
-## Backend Setup (FastAPI + Docker)
+## Backend Setup
 
 The backend provides a service that parses `docs/laws.pdf` (laws from the fictional series Game of Thrones) and exposes a queryable API.
 
